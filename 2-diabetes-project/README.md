@@ -26,7 +26,7 @@ python src/train.py
 ```
 
 ## 📊 Screenshots
-![Diabetes screenshot 1](screenshots/diabetes-01.png)
+
 ![Diabetes screenshot 2](screenshots/diabetes-02.png)
 ![Diabetes screenshot 3](screenshots/diabetes-03.png)
 ![Diabetes screenshot 4](screenshots/diabetes-04.png)
