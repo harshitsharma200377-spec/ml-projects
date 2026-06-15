@@ -40,7 +40,7 @@ Classifies sonar signal readings as **rock or mine** using Logistic Regression.
 ### 2. 🩺 Diabetes Prediction System
 Predicts whether a patient is **diabetic or not** from diagnostic measurements using a Linear SVM classifier.
 
-![Diabetes project screenshot](2-diabetes-project/screenshots/diabetes-01.png)
+![Diabetes project screenshot](2-diabetes-project/screenshots/diabetes-02.png)
 
 ## 🛠️ Tech Stack
 - Python, NumPy, Pandas
