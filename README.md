@@ -1,14 +1,15 @@
-# ML Projects
+# 🤖 ML Projects
 
-This repository contains two machine learning projects in one organized place.
+A collection of machine learning projects covering real-world classification problems — organized, documented, and ready to run.
 
-## ML Project
+## 📂 Projects
 
-1. [Sonar Project](1-sonar-project)
-2. [Diabetes Project](2-diabetes-project)
+| # | Project | Algorithm | Accuracy |
+|---|---------|-----------|----------|
+| 1 | [🔊 Sonar Rock vs Mine](1-sonar-project) | Logistic Regression | ~83% |
+| 2 | [🩺 Diabetes Prediction](2-diabetes-project) | Linear SVM | ~77% |
 
-## Repository Structure
-
+## 🗂️ Repository Structure
 ```text
 .
 +-- 1-sonar-project/
@@ -29,20 +30,22 @@ This repository contains two machine learning projects in one organized place.
 +-- README.md
 ```
 
-## Projects
+## 🔍 Project Previews
 
-### 1. Sonar Project
-
-Classifies sonar signal readings as rock or mine using logistic regression.
+### 1. 🔊 Sonar Rock vs Mine Prediction
+Classifies sonar signal readings as **rock or mine** using Logistic Regression.
 
 ![Sonar project screenshot](1-sonar-project/screenshots/sonar-01.png)
 
-### 2. Diabetes Project
-
-Predicts diabetes outcome from diagnostic measurements using a linear SVM classifier.
+### 2. 🩺 Diabetes Prediction System
+Predicts whether a patient is **diabetic or not** from diagnostic measurements using a Linear SVM classifier.
 
 ![Diabetes project screenshot](2-diabetes-project/screenshots/diabetes-01.png)
 
-## Author
+## 🛠️ Tech Stack
+- Python, NumPy, Pandas
+- Scikit-learn
+- Jupyter Notebook
 
+## 👤 Author
 [Harshit Sharma](https://github.com/harshitsharma200377-spec)
