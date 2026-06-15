@@ -11,22 +11,22 @@ This repository contains two machine learning projects in one organized place.
 
 ```text
 .
-├── 1-sonar-project/
-│   ├── data/
-│   ├── notebooks/
-│   ├── screenshots/
-│   ├── src/
-│   ├── README.md
-│   └── requirements.txt
-├── 2-diabetes-project/
-│   ├── data/
-│   ├── notebooks/
-│   ├── screenshots/
-│   ├── src/
-│   ├── README.md
-│   └── requirements.txt
-├── .gitignore
-└── README.md
++-- 1-sonar-project/
+|   +-- data/
+|   +-- notebooks/
+|   +-- screenshots/
+|   +-- src/
+|   +-- README.md
+|   +-- requirements.txt
++-- 2-diabetes-project/
+|   +-- data/
+|   +-- notebooks/
+|   +-- screenshots/
+|   +-- src/
+|   +-- README.md
+|   +-- requirements.txt
++-- .gitignore
++-- README.md
 ```
 
 ## Projects
@@ -35,13 +35,13 @@ This repository contains two machine learning projects in one organized place.
 
 Classifies sonar signal readings as rock or mine using logistic regression.
 
-![Sonar notebook code screenshot](1-sonar-project/screenshots/notebook-code.png)
+![Sonar project screenshot](1-sonar-project/screenshots/sonar-01.png)
 
 ### 2. Diabetes Project
 
 Predicts diabetes outcome from diagnostic measurements using a linear SVM classifier.
 
-![Diabetes notebook code screenshot](2-diabetes-project/screenshots/notebook-code.png)
+![Diabetes project screenshot](2-diabetes-project/screenshots/diabetes-01.png)
 
 ## Author
 
